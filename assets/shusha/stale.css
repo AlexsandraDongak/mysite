@@ -1,0 +1,12 @@
+body{
+    color:#ff1919 !important;
+/*opacity: 0.5*/
+}
+a.btn {
+display: block;
+    color: green !important;
+}
+#lapa {
+    width: 50%!important;
+    margin: 0 auto;
+}
