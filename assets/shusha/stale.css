@@ -1,5 +1,5 @@
 body{
-    color:#ff1919 !important;
+    /*color:#ff1919 !important;*/
 /*opacity: 0.5*/
 }
 a.btn {
@@ -9,4 +9,7 @@ display: block;
 #lapa {
     width: 50%!important;
     margin: 0 auto;
+}
+#coolness.very-cool{
+    color: aqua;
 }
